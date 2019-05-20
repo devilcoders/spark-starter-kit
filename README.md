@@ -17,7 +17,7 @@ This is a starting point for all [Spree](https://spreecommerce.org)/Rails relate
  - PostgreSQL client - `brew install postgresql` or `apt-get install postgresql-client`
  - [RVM](https://rvm.io/) - `rvm use`
  - [NVM](https://github.com/creationix/nvm) - `nvm use`
- - Yarn - `npm install -g yarn`
+ - Yarn - `brew install yarn`
  - Bundler - `gem install bundler`
 
 ### Run setup script
